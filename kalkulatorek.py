@@ -32,3 +32,4 @@ while True:
         print('dam ci kolejną szansę')
         
         #mam coś tu zmienic, ale odmawiam. Let my boy kalkulatorek live </3
+#aha jeszcze gałęzie bez sensu..
