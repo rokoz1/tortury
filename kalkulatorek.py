@@ -3,7 +3,7 @@ while True:
     print('aby zakończyć matematyczną przygodę wciśnij \'f\'')
     decyzja = input()
     if decyzja == 'k':
-        print('ahoj kamracie, jakie liczby masz dziś w głowie?')
+        print('ahoj kamracie, jakie liczby masz dziś w głowie? bo ja mam zerowe w głowie, więc idk about u')
         print('powiedz pierwszą')
         liczba1 = int(input())
         print('ok. ok. nadążam.\n','podaj drugą')
