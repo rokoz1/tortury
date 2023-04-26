@@ -30,3 +30,5 @@ while True:
     else:
         print('niunia, szanujmy się, nie takie były opcje wyboru')
         print('dam ci kolejną szansę')
+        
+        #mam coś tu zmienic, ale odmawiam. Let my boy kalkulatorek live </3
